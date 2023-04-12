@@ -567,6 +567,10 @@ video {
   }
 }
 
+.relative {
+  position: relative;
+}
+
 .mx-4 {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -730,6 +734,14 @@ video {
 
 .h-\[600px\] {
   height: 600px;
+}
+
+.h-\[300px\] {
+  height: 300px;
+}
+
+.h-52 {
+  height: 13rem;
 }
 
 .w-32 {
